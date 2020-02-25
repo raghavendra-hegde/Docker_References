@@ -1,0 +1,10 @@
+Docker Issues/Challenges
+
+I am facing a issue with this command (On ubuntu):
+sudo docker container run -d -e POSTGRES_HOST_AUTH_METHOD=trust --name psql -v /home/rlh/RaghuHegde/postgreDB:/var/lib/postgresql/data postgres:9.6.17
+
+this is locking my folder postgreDB and i get permission denied issue.
+!!! This initially happened when i had pointed the host path to my home directory and it locked me out of the system not able to login had to re-install os.
+
+But, If i run the same command on MAC (with out sudo) it works normally, i mean no lock on folder:
+docker container run -d -e POSTGRES_HOST_AUTH_METHOD=trust --name psql -v /home/rlh/RaghuHegde/postgreDB:/var/lib/postgresql/data postgres:9.6.17

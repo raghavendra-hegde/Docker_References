@@ -1,0 +1,68 @@
+Docker resource links
+
+section1 
+	-	https://github.com/bretfisher/udemy-docker-mastery
+	-	https://www.youtube.com/watch?v=sK5i-N34im8&feature=youtu.be&list=PLBmVKD7o3L8v7Kl_XXh3KaJl9Qw2lyuFl
+
+section 3
+	-	https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf
+	-	https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg
+	-	https://docs.docker.com/config/formatting/
+	-	https://dyn.com/blog/dns-why-its-important-how-it-works/
+	-	https://howdns.works/
+	-	https://en.wikipedia.org/wiki/Round-robin_DNS
+section 4
+	-	https://github.com/moby/moby/blob/master/image/spec/v1.md
+	-	https://github.com/docker-library/official-images/tree/master/library
+	-	https://docs.docker.com/storage/storagedriver/
+	-	https://docs.docker.com/engine/reference/builder/
+
+section 5
+	-	https://www.oreilly.com/radar/an-introduction-to-immutable-infrastructure/
+	-	https://12factor.net/
+	-	https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c#.cjvkgw4b3
+	-	https://docs.docker.com/storage/
+	-	https://jekyllrb.com/
+
+section 6
+	-	https://yaml.org/start.html
+	-	https://yaml.org/refcard.html
+	-	https://docs.docker.com/compose/compose-file/compose-versioning/
+	-	https://github.com/docker/compose/releases
+	-	https://github.com/BretFisher/ama/issues/8
+	-	https://docs.docker.com/compose/compose-file/
+	-	https://docs.docker.com/compose/compose-file/#links
+	-	https://docs.docker.com/compose/compose-file/#build
+
+section 7
+	-	https://www.youtube.com/watch?v=dooPhkXT9yI
+	-	https://www.youtube.com/watch?v=_F6PSP-qhdA
+	-	https://speakerdeck.com/aluzzardi/heart-of-the-swarmkit-topology-management
+	-	https://www.youtube.com/watch?v=EmePhjGnCXY
+	-	http://thesecretlivesofdata.com/raft/
+	-	https://docs.docker.com/engine/swarm/services/
+	-	https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/
+	-	https://www.bretfisher.com/docker-swarm-firewall-ports/
+	-	https://www.digitalocean.com/community/tutorials/how-to-configure-custom-connection-options-for-your-ssh-client
+	-	https://docs.docker.com/machine/drivers/hyper-v/
+	-	https://www.digitalocean.com/?refcode=ee97875d52fa&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste
+
+section 8
+	-	https://docs.docker.com/engine/swarm/ingress/
+	-	https://docs.docker.com/compose/compose-file/#not-supported-for-docker-stack-deploy
+	-	https://github.com/BretFisher/ama/issues/8
+	-	https://docs.docker.com/engine/swarm/secrets/
+	-	https://docs.docker.com/compose/compose-file/#secrets-configuration-reference
+
+section 9 
+	-	https://docs.docker.com/compose/extends/#multiple-compose-files
+	-	https://docs.docker.com/compose/production/
+	-	https://docs.docker.com/engine/reference/commandline/service_update/
+	-	https://github.com/BretFisher/php-docker-good-defaults
+	-	https://docs.docker.com/engine/reference/builder/#healthcheck
+	-	https://docs.docker.com/compose/compose-file/#healthcheck
+
+section 10
+	-	https://docs.docker.com/registry/configuration/
+	-	https://docs.docker.com/registry/garbage-collection/
+	-	https://docs.docker.com/registry/recipes/mirror/
